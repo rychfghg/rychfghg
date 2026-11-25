@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:E8501A,100:FF9A5A&text=Rey%20Christian%20Bacolod&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20UI%2FUX%20Designer&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:E8501A,100:FF9A5A&text=Rey%20Christian%20Bacolod&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=Developer%20%C2%B7%20UI%2FUX%20Designer&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
