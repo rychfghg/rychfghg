@@ -21,25 +21,36 @@
 <!-- ===================== ABOUT ===================== -->
 <h2 align="center">✦ About Me ✦</h2>
 
-<p align="center">
-  I enjoy turning ideas into <b>clean, useful digital experiences</b>, from full-stack web apps and Android apps<br>
-  to interface designs in Figma. I care about details, simple flows, and products people actually enjoy using.
-</p>
-
-<table align="center">
+<table>
   <tr>
-    <td>🔭 Currently building and improving my <b>personal projects</b></td>
-  </tr>
-  <tr>
-    <td>🌱 Exploring <b>Generative AI</b> and <b>cloud</b> (AWS)</td>
-  </tr>
-  <tr>
-    <td>🎨 Designing interfaces in <b>Figma</b> before I build them</td>
-  </tr>
-  <tr>
-    <td>📍 Based in the <b>Philippines</b> 🇵🇭</td>
+    <td width="55%" valign="top">
+      <h3>Hey there! I'm Rey 👋</h3>
+      <p>
+        I turn ideas into <b>clean, useful digital experiences</b>, from full-stack web apps
+        and Android apps to interface designs in Figma.
+      </p>
+      <p>
+        I love the whole journey: sketching the flow, designing every screen, then building it
+        until it actually works. Small details matter to me, because they're what make people
+        <i>enjoy</i> using something.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/📍-Philippines-E8501A?style=flat-square" />
+        <img src="https://img.shields.io/badge/💼-Open_to_projects-141414?style=flat-square" />
+      </p>
+    </td>
+    <td width="45%" valign="top">
+      <h3>⚡ Quick facts</h3>
+      <p>🧩 &nbsp;<b>Full-Stack Developer</b> &amp; <b>UI/UX Designer</b></p>
+      <p>🎨 &nbsp;I design in <b>Figma</b> before I write code</p>
+      <p>📱 &nbsp;I build for both <b>web</b> and <b>Android</b></p>
+      <p>🤖 &nbsp;Exploring <b>Generative AI</b> and <b>AWS cloud</b></p>
+      <p>☕ &nbsp;Always learning, always building</p>
+    </td>
   </tr>
 </table>
+
+
 
 <br>
 
