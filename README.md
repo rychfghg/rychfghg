@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rey Christian Bacolod 👋</h1>
+<h1 align="center">Hi, I'm Rey Christian 👋</h1>
 
 
 <p align="center">
