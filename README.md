@@ -1,82 +1,124 @@
-<h1 align="center">Hi, I'm Rey Christian 👋</h1>
-
-
+<!-- Header banner -->
 <p align="center">
-  I design and build clean, useful digital experiences: web apps, mobile apps and interface designs.
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:E8501A,100:FF9A5A&text=Rey%20Christian%20Bacolod&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20UI%2FUX%20Designer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+</p>
+
+<!-- Typing line -->
+<p align="center">
+  <a href="https://reybacolod.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=E8501A&center=true&vCenter=true&width=600&lines=I+design+and+build+digital+experiences;Web+apps+%E2%80%A2+Mobile+apps+%E2%80%A2+UI%2FUX+design;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing intro" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://reybacolod.vercel.app"><img src="https://img.shields.io/badge/Portfolio-reybacolod.vercel.app-E8501A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://reybacolod.vercel.app/Rey-Christian-Bacolod-Resume.pdf"><img src="https://img.shields.io/badge/Resume-View%20PDF-141414?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
-  <a href="mailto:bacolodreychristian0@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://reybacolod.vercel.app"><img src="https://img.shields.io/badge/Portfolio-E8501A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://reybacolod.vercel.app/Rey-Christian-Bacolod-Resume.pdf"><img src="https://img.shields.io/badge/Resume-141414?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+  <a href="mailto:bacolodreychristian0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<br>
 
-### 🚀 Featured Projects
+## 👋 About Me
 
-| Project | What it is | Built with | Links |
-|---|---|---|---|
-| **JapLearn 2.0** | Japanese learning app with AI speaking practice (capstone, team of 5) | React Native · Expo · TypeScript · Gemini AI | [Live](https://portal.japlearn.com/) · [Code](https://github.com/rychfghg/JapLearn-2.0) |
-| **Palasyo: A Political Story** | Interactive political story game | React · TypeScript · Zustand · Spring Boot | [Live](https://frontend-gamma-one-39.vercel.app) · [Code](https://github.com/rychfghg/Palasyo---Political-Story) |
-| **SyncShot** | Subtitle QA tool that syncs SRT files and auto-captures screenshots | React · Vite · JavaScript | [Live](https://sync-shot-zeta.vercel.app) · [Code](https://github.com/rychfghg/SyncShot) |
-| **TrackUtang** | Offline, privacy-first Android debt tracker | Java · Android · SQLite · Figma | [Download](https://rychfghg.github.io/TrackUtang/) · [Code](https://github.com/rychfghg/TrackUtang) |
-| **CampusEvent Reserve** | Campus event reservation system for web and mobile | React · TypeScript · Axios · Figma | [Live](https://campus-event-reserve.vercel.app) · [Code](https://github.com/rychfghg/Campus-Event-Reserve) |
+```js
+const rey = {
+  role:      ["Full-Stack Developer", "UI/UX Designer"],
+  buildsWith: ["React", "React Native", "Java", "Spring Boot", "Figma"],
+  focus:     "Clean, useful digital experiences",
+  basedIn:   "Philippines 🇵🇭",
+};
 
----
 
-### 🛠️ Tech Stack
+<br>
 
-**Languages**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🇯🇵 JapLearn 2.0</h3>
+<p>Japanese learning platform with <b>AI speaking practice</b> powered by Gemini. Capstone project, team of 5.</p>
+<p><code>React Native</code> <code>Expo</code> <code>TypeScript</code> <code>Gemini AI</code></p>
+<a href="https://portal.japlearn.com/"><b>🌐 Live</b></a>  ·  <a href="https://github.com/rychfghg/JapLearn-2.0"><b>💻 Code</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>🏛️ Palasyo: A Political Story</h3>
+<p>Interactive political story game. <i>Six years. One nation. Every decision has a price.</i></p>
+<p><code>React</code> <code>TypeScript</code> <code>Zustand</code> <code>Spring Boot</code></p>
+<a href="https://frontend-gamma-one-39.vercel.app"><b>🌐 Live</b></a>  ·  <a href="https://github.com/rychfghg/Palasyo---Political-Story"><b>💻 Code</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎬 SyncShot</h3>
+<p>Subtitle QA made visual. Syncs SRT files with video and auto-captures screenshots.</p>
+<p><code>React</code> <code>Vite</code> <code>JavaScript</code></p>
+<a href="https://sync-shot-zeta.vercel.app"><b>🌐 Live</b></a>  ·  <a href="https://github.com/rychfghg/SyncShot"><b>💻 Code</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>💸 TrackUtang</h3>
+<p>Offline, privacy-first Android debt tracker. No login, no account.</p>
+<p><code>Java</code> <code>Android</code> <code>SQLite</code> <code>Figma</code></p>
+<a href="https://rychfghg.github.io/TrackUtang/"><b>📲 Download</b></a>  ·  <a href="https://github.com/rychfghg/TrackUtang"><b>💻 Code</b></a>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<h3>🎟️ CampusEvent Reserve</h3>
+<p>Campus event reservation system for web and mobile, designed in Figma and built as a live web app.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Axios</code> <code>Figma</code></p>
+<a href="https://campus-event-reserve.vercel.app"><b>🌐 Live</b></a>  ·  <a href="https://github.com/rychfghg/Campus-Event-Reserve"><b>💻 Code</b></a>
+</td>
+</tr>
+</table>
 
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+<br>
 
-**Databases**  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+🛠️ Tech Stack
+<p align="center"><b>Languages</b></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,java,python,html,css&theme=light" />
+</p>
 
-**Tools & Cloud**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<p align="center"><b>Frameworks & Mobile</b></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,vite,spring,androidstudio&theme=light" />
+</p>
 
----
+<p align="center"><b>Databases</b></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=supabase,mongodb,sqlite&theme=light" />
+</p>
 
-### 🏅 Certifications
+<p align="center"><b>Tools & Cloud</b></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,aws,vercel&theme=light" />
+</p>
 
-- ☁️ **AWS Academy Graduate – Cloud Foundations** · [Verify](https://www.credly.com/badges/99b2c286-68d9-479f-be17-b4dec1e98e89)
-- 🤖 **AWS Academy Graduate – Generative AI Foundations** · [Verify](https://www.credly.com/badges/4a5f0cc9-07ef-4df3-84d5-bf51d7cc5482)
-- 🧠 **IBM – Artificial Intelligence Fundamentals** · [Verify](https://www.credly.com/earner/earned/badge/adfd6866-e006-4568-a487-ab81a73f27ab)
+<br>
 
----
+🏅 Certifications
+<table>
+<tr>
+<td align="center" width="33%">☁️<br><b>Cloud Foundations</b><br><sub>AWS Academy</sub><br><a href="https://www.credly.com/badges/99b2c286-68d9-479f-be17-b4dec1e98e89">Verify ↗</a></td>
+<td align="center" width="33%">🤖<br><b>Generative AI Foundations</b><br><sub>AWS Academy</sub><br><a href="https://www.credly.com/badges/4a5f0cc9-07ef-4df3-84d5-bf51d7cc5482">Verify ↗</a></td>
+<td align="center" width="33%">🧠<br><b>AI Fundamentals</b><br><sub>IBM</sub><br><a href="https://www.credly.com/earner/earned/badge/adfd6866-e006-4568-a487-ab81a73f27ab">Verify ↗</a></td>
+</tr>
+</table>
 
-### 📊 GitHub Stats
+<br>
+
+📊 GitHub Stats
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rychfghg&show_icons=true&hide_border=true&theme=transparent&title_color=E8501A&icon_color=E8501A&text_color=888888" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rychfghg&layout=compact&hide_border=true&theme=transparent&title_color=E8501A&text_color=888888" />
+</p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rychfghg&show_icons=true&hide_border=true&title_color=E8501A&icon_color=E8501A&text_color=444444&bg_color=F4F2EE" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rychfghg&layout=compact&hide_border=true&title_color=E8501A&text_color=444444&bg_color=F4F2EE" />
+<img src="https://streak-stats.demolab.com?user=rychfghg&hide_border=true&theme=transparent&ring=E8501A&fire=E8501A&currStreakLabel=E8501A&sideLabels=888888&dates=888888&sideNums=888888&currStreakNum=888888" />
 </p>
 
+<!-- Footer wave -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rychfghg&hide_border=true&ring=E8501A&fire=E8501A&currStreakLabel=E8501A&background=F4F2EE" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:E8501A,100:FF9A5A" width="100%" />
 </p>
 
----
-
-<p align="center"><i>Always learning, always building. ✨</i></p>
