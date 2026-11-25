@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rey Christian Bacolod 👋</h1>
-<h3 align="center">IT Student at Cebu Institute of Technology – University · Philippines 🇵🇭</h3>
+
 
 <p align="center">
   I design and build clean, useful digital experiences: web apps, mobile apps and interface designs.
